@@ -1,0 +1,35 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+*.unityproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Asset Store tools
+AssetStoreTools*
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
